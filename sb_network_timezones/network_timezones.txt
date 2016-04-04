@@ -1907,6 +1907,7 @@ TELECARE (US):US/Eastern
 Telecinco 5 (ES):Europe/Madrid
 Telecinco:Europe/Madrid
 Teledoce:America/Montevideo
+Telefe:Buenos Aires, Argentina
 TeleG:Europe/London
 TeLeHiTs (US):US/Eastern
 Telemundo (MX):America/Mexico_City
